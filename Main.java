@@ -11,7 +11,7 @@ public class Main {
       if (nameString.equals("Alice") || nameString.equals("Bob")){
       System.out.println("Greetings,  "+ nameString);
      } else {
-         System.out.println("Soory,  "+ nameString + ", only Alice and Bob allowed");
+         System.out.println("Sorry,  "+ nameString + ", only Alice and Bob allowed");
         }
   }  
 }
