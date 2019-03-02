@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Created by iyasuwatts on 10/17/17.
+ * Created by Eleonor Bart, February 2019.
  */
 public class Main {
   public static void main(){//String[] args ){
